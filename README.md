@@ -1,5 +1,7 @@
 # RMB Meetup: Microsoft wants *you* to learn Python! 
 
+### 🛑 Resources under construction; proceed with caution
+
 ![Event cover](images/event-cover.png)
 
 Resources for RMB meetup
